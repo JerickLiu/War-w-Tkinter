@@ -1,3 +1,8 @@
+# War with Tkinter
+# War game with GUI built with tkinter
+# Jerick Liu
+# 01/10/2020
+
 import GUI
 
 class Main:
